@@ -7,9 +7,10 @@ To analyze how environmental and logistical factors—specifically distance, cit
 My analysis quantified exactly how much external delays affect delivery times, providing a comprehensive look at the main factors that slow down the delivery process.
 
 ## 📊 Interactive Analysis
-[**👉 View the Live Analysis (Google Sheets)**](https://docs.google.com/spreadsheets/d/11_ZCOdeE9zjd2KAGp8_96T-fMaGFZQzca3LiU87bhg4/edit?gid=2147345263#gid=2147345263)
+[**👉 View the Live Analysis (Google Sheets)**]([https://google.com](https://docs.google.com/spreadsheets/d/11_ZCOdeE9zjd2KAGp8_96T-fMaGFZQzca3LiU87bhg4/edit?gid=2147345263#gid=2147345263)
 
 ![Food Delivery Analysis Chart](./images/Chart_Pivot_Table.png)
+
 ---
 
 ## 🛠️ Tools Used
