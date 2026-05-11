@@ -9,7 +9,7 @@ My analysis quantified exactly how much external delays affect delivery times, p
 ## 📊 Interactive Analysis
 [**👉 View the Live Analysis (Google Sheets)**](https://docs.google.com/spreadsheets/d/11_ZCOdeE9zjd2KAGp8_96T-fMaGFZQzca3LiU87bhg4/edit?gid=2147345263#gid=2147345263)
 
-<img src="/Chart_Pivot_Table.png">
+<img src="/Chart_Pivot_Table.png" style="width: 50%; max-width: 400px;">
 ---
 
 ## 🛠️ Tools Used
