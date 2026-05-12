@@ -29,4 +29,4 @@ My analysis quantified exactly how much external delays affect delivery times, p
 
 ## Data Source
 * **Dataset:**[Food Delivery Dataset (Kaggle)](https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset)
-* **Key Metrics:** State, Measure Name (Condition), and Average Score (Readmission Rate %).
+
