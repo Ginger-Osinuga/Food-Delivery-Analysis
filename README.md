@@ -12,10 +12,6 @@ My analysis quantified exactly how much external delays affect delivery times, p
 <img src="/Chart_Pivot_Table.png" style="width: 75%">
 ---
 
-## 🛠️ Tools Used
-*   **Microsoft Excel**
-*   **Google Sheets**
-
 ## 🔍 Methodology
 1.  **Data Cleaning:** Conducted a thorough data audit, removing all **NaN values**, **zeros**, and **blank spaces**. I also corrected **misspellings** across the dataset to ensure categorical consistency.
 2.  **Analysis:** Segmented data into four key categories:
@@ -31,3 +27,6 @@ My analysis quantified exactly how much external delays affect delivery times, p
 *   **Urban vs. Metro:** Deliveries in Metropolitan areas take **18% longer** than Urban orders.
 *   **Traffic Bottlenecks:** Heavy traffic (jams) increased delivery time by **46%** compared to low-density traffic conditions.
 
+## Data Source
+* **Dataset:** [US Healthcare Readmissions and Mortality (Kaggle)](https://kaggle.com)
+* **Key Metrics:** State, Measure Name (Condition), and Average Score (Readmission Rate %).
