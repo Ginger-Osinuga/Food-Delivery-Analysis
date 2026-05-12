@@ -1,7 +1,7 @@
 # 🍕 Food Delivery Performance Analysis
 
 ## 🎯 Project Goal
-To analyze how environmental and logistical factors—specifically distance, city type, weather conditions, and traffic density—impact overall delivery performance.
+To analyze how environmental and logistical factors, such as distance, city type, weather conditions, and traffic density, impact overall delivery performance.
 
 ## 📈 The Result
 My analysis quantified exactly how much external delays affect delivery times, providing a comprehensive look at the main factors that slow down the delivery process.
